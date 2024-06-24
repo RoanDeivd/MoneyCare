@@ -1,0 +1,38 @@
+body {
+    background-color: #50BE37 ;
+}
+
+.container {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.title {
+    font-family: 'Poppins', sans-serif;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.form-control {
+    border-color:#1a3620
+}
+
+.btn-success {
+    background-color: #1a3620 !important;
+}
+
+.btn-outline-success {
+    color: #1a3620;
+    background-color: #fff;
+    border-color: #1a3620 !important;
+}
+
+a {
+    color: #1a3620;
+}
+
+.btn-outline-success:hover {
+    background-color: #1a3620;
+    border-color: #1a3620;
+}
